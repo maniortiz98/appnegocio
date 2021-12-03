@@ -1,0 +1,15 @@
+{
+  "name": "home-addres",
+  "version": "0.0.1",
+  "description": "prueba",
+  "keywords": [
+    "tks","pb"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  }
+}
