@@ -1,10 +1,21 @@
 {
-  "name": "home-addres",
+  "name": "home-address",
   "version": "0.0.1",
   "description": "prueba",
   "keywords": [
     "tks","pb"
   ],
+  "homepage": "https://github.com/maniortiz98/appnegocio",
+  "bugs": {
+    "url":"https://github.com/maniortiz98/appnegocio",
+    "email":"maniortiz98@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+      "name" : "DesarrolloTKS",
+      "email" : "maniortiz98@gmail.com",
+      "url" : "https://github.com/maniortiz98/"
+  },
   "peerDependencies": {
     "@angular/common": "^12.1.0",
     "@angular/core": "^12.1.0"
